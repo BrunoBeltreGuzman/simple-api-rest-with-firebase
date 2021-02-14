@@ -1,0 +1,9 @@
+
+1. login
+$ firebase login
+
+2. Create Projct:
+$ firebase init
+
+3. Run:
+$ firebase serve
